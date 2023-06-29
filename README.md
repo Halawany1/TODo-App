@@ -1,8 +1,8 @@
 # Todo_App
 - The project helps people to add tasks 
 to there day.
-Todo app implemented with Flutter with sqflite .stored data (post / get / update / delete )
-project made with Bloc as State management.
+Todo app implemented with Flutter with sqflite .stored data (post / get / update / delete ).
+- project made with Bloc as State management.
 
 <img src="https://github.com/Halawany1/TODo-App/assets/96886506/44a752d5-4cf2-44e4-a768-6e5490455d36" width="200" height="400">
 <img src="https://github.com/Halawany1/TODo-App/assets/96886506/ef147eff-67eb-4655-a6bc-a92e5ee8d60b" width="200" height="400">
